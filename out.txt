@@ -1,0 +1,94 @@
+https://en.wikipedia.org/wiki/Apple_I;Apple I
+https://en.wikipedia.org/wiki/Apple_I;Apple I
+https://en.wikipedia.org/wiki/Apple_II;Apple II
+https://en.wikipedia.org/wiki/Apple_II;Apple II
+https://en.wikipedia.org/wiki/Disk_II;Disk II
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/Apple_II_Plus;Apple II Plus
+https://en.wikipedia.org/wiki/Apple_II_series;Apple II series
+https://en.wikipedia.org/wiki/Apple_II_Plus#Apple_II_Europlus_and_J-Plus;Apple II Plus
+https://en.wikipedia.org/wiki/Apple_II_Plus#Apple_II_Europlus_and_J-Plus;Apple II Plus
+https://en.wikipedia.org/wiki/Apple_II_Plus#Bell_&_Howell;Apple II Plus
+https://en.wikipedia.org/wiki/Disk_II;Disk II
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/Apple_SilenType;Apple SilenType
+https://en.wikipedia.org/wiki/Category:Apple_Inc._printers;Category:Apple Inc. printers
+https://en.wikipedia.org/wiki/Apple_III;Apple III
+https://en.wikipedia.org/wiki/Apple_III;Apple III
+https://en.wikipedia.org/wiki/Novation_CAT;Novation CAT
+https://en.wikipedia.org/wiki/Apple_USB_Modem#History;Apple USB Modem
+https://en.wikipedia.org/wiki/Centronics;Centronics
+https://en.wikipedia.org/wiki/Category:Apple_Inc._printers;Category:Apple Inc. printers
+https://en.wikipedia.org/wiki/Apple_Monitor_III;Apple Monitor III
+https://en.wikipedia.org/wiki/Apple_displays;Apple displays
+https://en.wikipedia.org/wiki/Apple_displays;Apple displays
+https://en.wikipedia.org/wiki/Apple_displays;Apple displays
+https://en.wikipedia.org/wiki/Disk_III;Disk III
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/Apple_ProFile;Apple ProFile
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/Apple_III;Apple III
+https://en.wikipedia.org/wiki/Apple_III;Apple III
+https://en.wikipedia.org/wiki/Apple_Dot_Matrix_Printer;Apple Dot Matrix Printer
+https://en.wikipedia.org/wiki/Category:Apple_Inc._printers;Category:Apple Inc. printers
+https://en.wikipedia.org/wiki/Apple_Daisy_Wheel_Printer;Apple Daisy Wheel Printer
+https://en.wikipedia.org/wiki/Category:Apple_Inc._printers;Category:Apple Inc. printers
+https://en.wikipedia.org/wiki/Apple_IIe;Apple IIe
+https://en.wikipedia.org/wiki/Apple_II;Apple II
+https://en.wikipedia.org/wiki/Apple_Lisa;Apple Lisa
+https://en.wikipedia.org/wiki/Apple_III_Plus;Apple III Plus
+https://en.wikipedia.org/wiki/Apple_III;Apple III
+https://en.wikipedia.org/wiki/Apple_ImageWriter;Apple ImageWriter
+https://en.wikipedia.org/wiki/ImageWriter;ImageWriter
+https://en.wikipedia.org/wiki/Apple_Lisa;Apple Lisa
+https://en.wikipedia.org/wiki/Macintosh_128K;Macintosh 128K
+https://en.wikipedia.org/wiki/Compact_Macintosh;Compact Macintosh
+https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#400K;Macintosh External Disk Drive
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/Apple_USB_Modem#History;Apple USB Modem
+https://en.wikipedia.org/wiki/Apple_USB_Modem#History;Apple USB Modem
+https://en.wikipedia.org/wiki/Apple_IIc;Apple IIc
+https://en.wikipedia.org/wiki/Apple_II_series;Apple II series
+https://en.wikipedia.org/wiki/Apple_Scribe_Printer;Apple Scribe Printer
+https://en.wikipedia.org/wiki/Category:Apple_Inc._printers;Category:Apple Inc. printers
+https://en.wikipedia.org/wiki/Apple_Mouse#Apple_Mouse_IIc;Apple Mouse
+https://en.wikipedia.org/wiki/Apple_Mouse;Apple Mouse
+https://en.wikipedia.org/wiki/Disk_IIc;Disk IIc
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/Disk_II#UniDisk;Disk II
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/Apple_410_Color_Plotter;Apple 410 Color Plotter
+https://en.wikipedia.org/wiki/Category:Apple_Inc._printers;Category:Apple Inc. printers
+https://en.wikipedia.org/wiki/Apple_ImageWriter;Apple ImageWriter
+https://en.wikipedia.org/wiki/Category:Apple_Inc._printers;Category:Apple Inc. printers
+https://en.wikipedia.org/wiki/Macintosh_512K;Macintosh 512K
+https://en.wikipedia.org/wiki/Macintosh_128K#Models;Macintosh 128K
+https://en.wikipedia.org/wiki/Apple_displays;Apple displays
+https://en.wikipedia.org/wiki/Apple_displays;Apple displays
+https://en.wikipedia.org/wiki/Macintosh_XL;Macintosh XL
+https://en.wikipedia.org/wiki/Apple_LaserWriter;Apple LaserWriter
+https://en.wikipedia.org/wiki/Category:Apple_Inc._printers;Category:Apple Inc. printers
+https://en.wikipedia.org/wiki/LocalTalk;LocalTalk
+https://en.wikipedia.org/wiki/AppleTalk;AppleTalk
+https://en.wikipedia.org/wiki/Apple_IIe#The_Enhanced_IIe;Apple IIe
+https://en.wikipedia.org/wiki/Apple_II_series;Apple II series
+https://en.wikipedia.org/wiki/Apple_USB_Modem#History;Apple USB Modem
+https://en.wikipedia.org/wiki/Apple_ImageWriter_II;Apple ImageWriter II
+https://en.wikipedia.org/wiki/Category:Apple_Inc._printers;Category:Apple Inc. printers
+https://en.wikipedia.org/wiki/Disk_II#UniDisk;Disk II
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/Hard_Disk_20;Hard Disk 20
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#Apple_UniDisk_3.5;Macintosh External Disk Drive
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/ColorMonitor_IIe/AppleColor_Composite_Monitor_IIe;ColorMonitor IIe/AppleColor Composite Monitor IIe
+https://en.wikipedia.org/wiki/Apple_displays;Apple displays
+https://en.wikipedia.org/wiki/Apple_displays;Apple displays
+https://en.wikipedia.org/wiki/Apple_displays;Apple displays
+https://en.wikipedia.org/wiki/Macintosh_Plus;Macintosh Plus
+https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#Macintosh_800K_External_Drive;Macintosh External Disk Drive
+https://en.wikipedia.org/wiki/List_of_Apple_drives;List of Apple drives
+https://en.wikipedia.org/wiki/Category:Apple_Inc._printers;Category:Apple Inc. printers
+https://en.wikipedia.org/wiki/Macintosh_512Ke;Macintosh 512Ke
+https://en.wikipedia.org/wiki/Apple_IIGS;Apple IIGS
+https://en.wikipedia.org/wiki/Apple_II_series;Apple II series
