@@ -45,15 +45,52 @@ def getproducts():
     with open('database.csv') as csvDataFile:
         csvReader = csv.reader(csvDataFile,delimiter = ";")
         count = 0
+        l = []
         for row in csvReader:
-            print(row[1])
+            l.append(row[1])
+        # print(l)
+        # print(set(l))
+        # print(len(l))
+        # print(len(set(l)))
+        for row in set(l):
+            # print(row[1])
             if(count != 0):
-                products +=  "," + row[1] 
+                products +=  "," + row
             else:
-                products +=  row[1]
+                products +=  row
             count+=1
-    print(products)
+    # print(products)
     return jsonify({"data":str(products)})
+
+@app.route("/getproductdetails",methods = ["POST"])
+def getproductdetails():
+    productname = request.json["productname"]
+    print(productname)
+    with open('database.csv') as csvDataFile:
+        csvReader = csv.reader(csvDataFile,delimiter = ";")
+        dictionary = {}
+        for row in csvReader:
+            dictionary[row[1]] = row[0]
+    if(productname in dictionary):
+        url = dictionary[productname]
+        # url = "https://en.wikipedia.org/wiki/Disk_II"
+        rPage = requests.get(url)
+        soup = BeautifulSoup(rPage.content, "html.parser")
+        tables = soup.find("div", {"class": "mw-parser-output"})
+        tables.table.decompose()
+        for span in tables.find_all("span",{'class':'mw-editsection'}):
+            span.decompose()
+        for image in tables.find_all("img"):
+            image.decompose()
+        # soup.find('span', id="coordinates").decompose()
+        for a in soup.findAll('a'):
+            if(a.has_attr("href")):
+                a['href'] = a['href'].replace("/wiki", "https://simple.wikipedia.org/wiki")
+                a['href'] = a['href'].replace("/w/", "https://simple.wikipedia.org/w/")
+        return tables.prettify()
+    else:
+        return jsonify(),400
+
 
 if __name__ == '__main__':
     app.run(debug=True)
